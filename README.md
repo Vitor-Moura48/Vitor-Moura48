@@ -1,16 +1,20 @@
-### Hi there 👋
+## Olá, eu sou Vitor
 
-<!--
-**Vitor-Moura48/Vitor-Moura48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### O que faço:
 
-Here are some ideas to get you started:
+- Desenvolvimento em Python e C  
+- Projeto e implementação de algoritmos de aprendizado de máquina e redes neurais
+- Programação de jogos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interesses:
+
+- **Inteligência Artificial**: Gosto de explorar o campo da IA, com um foco especial em redes neurais e aprendizado por reforço.
+- **Programação de Jogos**: Desenvolver jogos é um dos meus hobbies favoritos.
+
+### O que você encontrará neste repositório:
+
+- Projetos pessoais relacionados a Python, C e IA
+- Projetos e recursos relacionados a jogos e desenvolvimento de jogos
+- Material de referência e guias para meus projetos
+
+Sinta-se à vontade para explorar meus repositórios e não hesite em entrar em contato caso queira colaborar em algum projeto ou se tiver alguma pergunta.
