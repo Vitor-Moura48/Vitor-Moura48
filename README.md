@@ -1,4 +1,4 @@
-## Olá! eu sou Vitor Gabriel, estudadnte de Ciência de Computação! ✨
+## Olá! eu sou Vitor Gabriel, estudante de Ciência de Computação! ✨
 
 ### 🎨 O que faço:
 
