@@ -1,10 +1,11 @@
-## Olá! eu sou Vitor Gabriel, estudante de Ciência de Computação! ✨
+## Olá! eu sou Vitor Moura, desenvolvedor e cientista da computação.! ✨
 
 ### 🎨 O que faço:
 
 - Desenvolvimento em Python C e Java.
 - Projeto e implementação de algoritmos de aprendizado de máquina e redes neurais.
 - Programação de jogos.
+- Criação e integração de APIs.
 
 ### 💡 Interesses:
 
