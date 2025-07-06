@@ -2,7 +2,7 @@
 
 ### 🎨 O que faço:
 
-- Desenvolvimento em Python C e Java.
+- Desenvolvimento em Python e C++.
 - Projeto e implementação de algoritmos de aprendizado de máquina e redes neurais.
 - Programação de jogos.
 - Criação e integração de APIs.
@@ -14,7 +14,7 @@
 
 ### 💎 O que você encontrará neste repositório:
 
-- Projetos pessoais relacionados a Python, C, Java e IA.
+- Projetos pessoais relacionados a Python, C++, GDScript e IA.
 - Projetos e recursos relacionados a jogos e desenvolvimento de jogos.
 - Material de referência e guias para meus projetos.
 
