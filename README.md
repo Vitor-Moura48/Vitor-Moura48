@@ -1,4 +1,4 @@
-## Olá! eu sou Vitor Moura, desenvolvedor e cientista da computação! ✨
+## Olá! eu sou Vitor Moura, desenvolvedor! ✨
 
 Cientista da Computação. Construindo o ecossistema completo: do Backend e modelos de Machine Learning até o Front-end dinâmico. Minha stack principal envolve Python, C# e Next.js.
 
